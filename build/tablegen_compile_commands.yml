@@ -1,0 +1,24 @@
+--- !FileInfo:
+  filepath: "/root/mlir-learning/mcomp/include/MComp/MComp.td"
+  includes: "/root/mlir-learning/mcomp/lib;/root/src/llvm-project/llvm/include;/root/src/llvm-project/build/include;/root/src/llvm-project/mlir/include;/root/src/llvm-project/build/tools/mlir/include;/root/mlir-learning/mcomp/include"
+--- !FileInfo:
+  filepath: "/root/mlir-learning/mcomp/include/MComp/MComp.td"
+  includes: "/root/mlir-learning/mcomp/lib;/root/src/llvm-project/llvm/include;/root/src/llvm-project/build/include;/root/src/llvm-project/mlir/include;/root/src/llvm-project/build/tools/mlir/include;/root/mlir-learning/mcomp/include"
+--- !FileInfo:
+  filepath: "/root/mlir-learning/mcomp/include/MComp/MComp.td"
+  includes: "/root/mlir-learning/mcomp/lib;/root/src/llvm-project/llvm/include;/root/src/llvm-project/build/include;/root/src/llvm-project/mlir/include;/root/src/llvm-project/build/tools/mlir/include;/root/mlir-learning/mcomp/include"
+--- !FileInfo:
+  filepath: "/root/mlir-learning/mcomp/include/MComp/MComp.td"
+  includes: "/root/mlir-learning/mcomp/lib;/root/src/llvm-project/llvm/include;/root/src/llvm-project/build/include;/root/src/llvm-project/mlir/include;/root/src/llvm-project/build/tools/mlir/include;/root/mlir-learning/mcomp/include"
+--- !FileInfo:
+  filepath: "/root/mlir-learning/mcomp/include/MComp/MComp.td"
+  includes: "/root/mlir-learning/mcomp/lib;/root/src/llvm-project/llvm/include;/root/src/llvm-project/build/include;/root/src/llvm-project/mlir/include;/root/src/llvm-project/build/tools/mlir/include;/root/mlir-learning/mcomp/include"
+--- !FileInfo:
+  filepath: "/root/mlir-learning/mcomp/include/MComp/MComp.td"
+  includes: "/root/mlir-learning/mcomp/lib;/root/src/llvm-project/llvm/include;/root/src/llvm-project/build/include;/root/src/llvm-project/mlir/include;/root/src/llvm-project/build/tools/mlir/include;/root/mlir-learning/mcomp/include"
+--- !FileInfo:
+  filepath: "/root/mlir-learning/mcomp/include/MComp/MComp.td"
+  includes: "/root/mlir-learning/mcomp/lib;/root/src/llvm-project/llvm/include;/root/src/llvm-project/build/include;/root/src/llvm-project/mlir/include;/root/src/llvm-project/build/tools/mlir/include;/root/mlir-learning/mcomp/include"
+--- !FileInfo:
+  filepath: "/root/mlir-learning/mcomp/include/MComp/MComp.td"
+  includes: "/root/mlir-learning/mcomp/lib;/root/src/llvm-project/llvm/include;/root/src/llvm-project/build/include;/root/src/llvm-project/mlir/include;/root/src/llvm-project/build/tools/mlir/include;/root/mlir-learning/mcomp/include"
