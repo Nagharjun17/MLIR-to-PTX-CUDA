@@ -1,4 +1,4 @@
-# MLIR → PTX (CUDA)
+# MLIR to PTX
 
 Tiny playground for a custom MLIR dialect (`mcomp`) with:
 - a fuse pass: `arith.addf` + `max(..., 0.0)` → `mcomp.fuse_add_relu`
